@@ -1,0 +1,157 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+:root {
+  font-size: 62.5%;
+  font-family: 'Poppins', sans-serif;
+}
+
+main {
+  background-color: black;
+  background-image: url('/img/background\ \(1\).svg') ;
+  background-repeat: no-repeat center center;
+  background-size: cover;
+  overflow: hidden;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    position: center;
+    justify-content: space-between;
+    height: 8em;
+    width: 92%;
+    padding: 0 4%;
+  }
+
+.logo {
+    width: 12em;
+    filter: invert(100%) sepia(99%) contrast(99%) saturate(1%) brightness(999%); 
+    font-size: 15px;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  gap: 5em;
+}
+
+.icon img {
+  width: 50px;
+}
+
+.login {
+    display: flex;
+    align-items: center;
+    gap: 5em;
+  }
+  
+
+.login a {
+    color: white;
+    font-size: 2.4rem;
+    text-decoration: none;
+  }
+  
+
+.center-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card-login{
+    display: flex;
+    justify-content:center;    
+    flex-direction: column;
+    align-items: center;    
+}
+
+.card-login > h1 {
+    color: white;
+    margin: 0;
+    font-size: 50px;
+    padding-bottom: 1ex;
+    padding-top: 4ex;
+}
+
+.textField {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 25px;
+    color: white;
+}
+
+.textField > input{
+    width: 16em;
+    height: 2em;
+    border-radius: 30px;
+    justify-content: space-between;
+    background-color: #848484;
+    margin-bottom:7%;
+    margin-top: 2%;
+    border: none;
+    color: white;
+    font-size: 2.8rem;
+    padding-left: 1px;
+}
+
+
+
+.text {
+    text-align: center;
+    font-size: bold;
+    font-size: 30px;
+    color: white;
+    margin-top: 1%;
+    margin-bottom: 2%;
+
+}
+
+input::placeholder {
+  font-size: 2.8rem;
+  padding-left: 40px;
+  outline: 0;
+
+  color: white;
+}
+
+#botao {
+    text-align: center
+}
+
+.btn1 {
+    background-color: #7c69ce;
+    border-radius: 25px;
+    color: black;
+    font-size:25px;
+    width: 11ex;
+    height: 3ex;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+button {
+  background: rgb(101, 89, 175);
+  background: linear-gradient(
+    73deg,
+    rgba(101, 89, 175, 1) 12%,
+    rgba(220, 153, 223, 1) 87%
+  );
+  color: black;
+  border: none;
+  border-radius: 30px;
+  text-align: center;
+  margin-inline: auto;
+  height: 50px;
+  font-size: 2.4rem;
+}
+

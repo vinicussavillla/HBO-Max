@@ -1,0 +1,91 @@
+* {
+    margin: 1ex;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+    width: 11em;
+    filter: invert(100%) sepia(99%) contrast(99%) saturate(1%) brightness(999%); 
+    font-size: 15px;
+
+}
+
+.link {
+    text-align: center;
+    font-size: 19px;
+}
+
+.link > a {
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+}
+
+a:hover {
+    color: #7c69ce;
+}
+
+.center-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card-login{
+    width: 60%;
+    display: flex;
+    justify-content:center;    
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-login > h1 {
+    color: white;
+    margin: 0;
+}
+
+.textField {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 20px;
+    color: white;
+}
+
+.textField > input{
+    width: 300px;
+    height: 23px;
+    border-radius: 30px;
+    background-color: #848484;
+}
+
+.textField > label{
+    padding-right: 12em;
+}
+
+.text {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+#botao {
+    text-align: center
+}
+
+.btn1 {
+    background-color: #7c69ce;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 17px;
+    width: 14ex;
+    height: 4ex;
+}
