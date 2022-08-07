@@ -1,5 +1,6 @@
 # Desafio HBO-Max
-Desafio HBO MAx - Criar 3 Telas 
+
+Desafio HBO Max da @Escola DNC 
 
 Voçê receberá três telas, que deverão ser feitas uma de cada vez!
 
