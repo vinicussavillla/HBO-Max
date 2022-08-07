@@ -1,14 +1,35 @@
 # Desafio HBO-Max
 
+
 Desafio HBO Max da @Escola DNC 
 
-Voçê receberá três telas, que deverão ser feitas uma de cada vez!
+Você receberá três telas, que deverão ser feitas uma de cada vez!
 
 A cada tela feita, você sobe um nível. 
+---------------------------
+
+Telas Concluidas: 
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Vini-Java" height="400" width="500" src="https://user-images.githubusercontent.com/66341102/183311950-de4f2cd6-60dd-4df8-91c2-b35b87056235.jpeg">
+  
+  
+  <img align="center" alt="Vini-HTML" height="400" width="500" src="https://user-images.githubusercontent.com/66341102/183312064-e3ec1f92-7970-435e-ab68-b3ff20b6701e.jpeg">
+
+</div>
+<br> 
+
+  <img align="center" alt="Vini-HTML"  width="1000" src="https://user-images.githubusercontent.com/66341102/183312270-9250117d-3855-443d-af56-81c0286f89bb.jpeg">
 
 
-![WhatsApp Image 2022-08-07 at 16 24 10](https://user-images.githubusercontent.com/66341102/183309161-5e1af5b4-b70c-48dd-af92-7846f0f28c01.jpeg)
-![WhatsApp Image 2022-08-07 at 16 24 42](https://user-images.githubusercontent.com/66341102/183309188-8b2bc2a7-f5cc-4c0b-b264-bbbc533ad778.jpeg)
-![WhatsApp Image 2022-08-07 at 16 25 19](https://user-images.githubusercontent.com/66341102/183309191-94aa4516-3791-420e-be9c-83acc2045aed.jpeg)
-![WhatsApp Image 2022-08-07 at 16 25 55](https://user-images.githubusercontent.com/66341102/183309208-94f96023-765a-4a9b-99ae-6e4d7ffad7a4.jpeg)
-![WhatsApp Image 2022-08-07 at 16 26 44](https://user-images.githubusercontent.com/66341102/183309211-5cf06439-109f-44fc-84e7-11878e95c832.jpeg)
+Instruções e Template
+------------------------
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Níveis" height="400" width="500" src="https://user-images.githubusercontent.com/66341102/183309188-8b2bc2a7-f5cc-4c0b-b264-bbbc533ad778.jpeg">
+  <img align="center" alt="Nível_Junior" height="400" width="500" src="https://user-images.githubusercontent.com/66341102/183312815-c0c7ad79-d5e4-4ddd-b254-47dfb112e3ee.jpeg">
+  
+  <img align="center" alt="Nível_Especialista" height="400" width="500" src="https://user-images.githubusercontent.com/66341102/183309208-94f96023-765a-4a9b-99ae-6e4d7ffad7a4.jpeg">
+    <img align="center" alt="Nível_Jedi" height="400" width="500" src="https://user-images.githubusercontent.com/66341102/183309211-5cf06439-109f-44fc-84e7-11878e95c832.jpeg">
+</div>
